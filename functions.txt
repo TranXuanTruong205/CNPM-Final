@@ -1,4 +1,5 @@
 ADD
 MUL
 SUB
+DIV
 MOD
